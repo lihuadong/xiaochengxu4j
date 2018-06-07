@@ -1,3 +1,10 @@
+/**
+ * 微信支付的通用类，根据小程序发起的支付请求
+ * 响应对应的参数，供小程序本地调起微信支付功能 
+ * 
+ */
+
+
 package xiaochengxu.pay.server;
 
 import java.io.IOException;
